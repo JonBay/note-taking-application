@@ -15,7 +15,10 @@
   - [Questions](#questions)
 
   ## Installation
-  You can view the live applciation here.  Also, the repository can be cloned and you can run npm Start 
+  You can view the live applciation here.  Also, the repository can be cloned and you can run npm Start.
+
+  ![note taker](https://github.com/JonBay/note-taking-application/assets/134355923/12eba58d-2a96-4b57-b835-ad271144cabc)
+
 
   ## Usage
   Use to save and refer back to your to do's. 
