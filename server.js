@@ -27,6 +27,8 @@ app.get('/notes', (req, res) =>
   res.sendFile(path.join(__dirname, '/public/notes.html'))
 );
 
-app.listen(PORT, () =>
+
+// Listen on `port` and 0.0.0.0
+app.listen(PORT, "0.0.0.0" () =>
   console.log(`App listening at http://localhost:${PORT}`)
 );
