@@ -5,6 +5,9 @@
   ## Description
   This app will allow you to enter and save a task and associated note.  It then lists all notes you have saved.  You can delete a note once a task is completed. The application is built with Express.js
 
+  ![note taker](https://github.com/JonBay/note-taking-application/assets/134355923/12eba58d-2a96-4b57-b835-ad271144cabc)
+  
+
   ## Table of Contents 
   - [Description](#description)
   - [Installation](#installation)
@@ -16,8 +19,6 @@
 
   ## Installation
   You can view the live applciation here.  Also, the repository can be cloned and you can run npm Start.
-
-  ![note taker](https://github.com/JonBay/note-taking-application/assets/134355923/12eba58d-2a96-4b57-b835-ad271144cabc)
 
 
   ## Usage
